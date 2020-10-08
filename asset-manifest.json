@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/taherhamzaouii/Airbnb-React-/static/css/main.9d1497ca.chunk.css",
+    "main.js": "/taherhamzaouii/Airbnb-React-/static/js/main.9e89b5ee.chunk.js",
+    "main.js.map": "/taherhamzaouii/Airbnb-React-/static/js/main.9e89b5ee.chunk.js.map",
+    "runtime-main.js": "/taherhamzaouii/Airbnb-React-/static/js/runtime-main.3df115ad.js",
+    "runtime-main.js.map": "/taherhamzaouii/Airbnb-React-/static/js/runtime-main.3df115ad.js.map",
+    "static/css/2.a1840750.chunk.css": "/taherhamzaouii/Airbnb-React-/static/css/2.a1840750.chunk.css",
+    "static/js/2.3b3e81f9.chunk.js": "/taherhamzaouii/Airbnb-React-/static/js/2.3b3e81f9.chunk.js",
+    "static/js/2.3b3e81f9.chunk.js.map": "/taherhamzaouii/Airbnb-React-/static/js/2.3b3e81f9.chunk.js.map",
+    "index.html": "/taherhamzaouii/Airbnb-React-/index.html",
+    "precache-manifest.1d31c307dd9cd24f0d0b2f814f1d44c6.js": "/taherhamzaouii/Airbnb-React-/precache-manifest.1d31c307dd9cd24f0d0b2f814f1d44c6.js",
+    "service-worker.js": "/taherhamzaouii/Airbnb-React-/service-worker.js",
+    "static/css/2.a1840750.chunk.css.map": "/taherhamzaouii/Airbnb-React-/static/css/2.a1840750.chunk.css.map",
+    "static/css/main.9d1497ca.chunk.css.map": "/taherhamzaouii/Airbnb-React-/static/css/main.9d1497ca.chunk.css.map",
+    "static/js/2.3b3e81f9.chunk.js.LICENSE.txt": "/taherhamzaouii/Airbnb-React-/static/js/2.3b3e81f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3df115ad.js",
+    "static/css/2.a1840750.chunk.css",
+    "static/js/2.3b3e81f9.chunk.js",
+    "static/css/main.9d1497ca.chunk.css",
+    "static/js/main.9e89b5ee.chunk.js"
+  ]
+}
