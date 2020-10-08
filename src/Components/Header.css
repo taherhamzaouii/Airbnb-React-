@@ -42,8 +42,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 15vw;
-    margin-right: 80px;
+    width: 22vw;
+    margin-right: 40px;
   }
 
   .language{
@@ -57,3 +57,13 @@
     border-radius: 100%;
     padding: 3px;
   }
+
+  .header_right > button {
+    text-transform: inherit;
+    margin: 5px;
+    border-radius: 22px !important;
+    border: none;
+    margin-right: 8px;
+    }
+
+  
